@@ -5,5 +5,6 @@ public class Main{
         System.out.println("Hello from Jenkins...");
         System.out.println("Hello from Jenkins again...");
         System.out.println(new Date());
+        System.out.println("Updated commit check...");
     }
 }
